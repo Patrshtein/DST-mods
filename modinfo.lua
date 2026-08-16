@@ -1,5 +1,5 @@
 name = "Super Beefalo 10k"
-description = "Робить Біфало майже безсмертними, даючи їм 10000 ХП."
+description = "Робить Біфало майже безсмертними, даючи їм 100000 ХП."
 author = "Твоє ім'я"
 version = "1.0.0"
 forumthread = ""

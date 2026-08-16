@@ -13,7 +13,7 @@ AddPrefabPostInit("beefalo", function(inst)
     if inst.components.health ~= nil then
         
         -- Звертаємося до компонента здоров'я і застосовуємо функцію встановлення максимального ХП
-        inst.components.health:SetMaxHealth(10000)
+        inst.components.health:SetMaxHealth(100000)
         
     end
 end)
