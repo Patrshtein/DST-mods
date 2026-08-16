@@ -1,6 +1,6 @@
 name = "Super Beefalo 10k"
 description = "Робить Біфало майже безсмертними, даючи їм 100000 ХП."
-author = "Твоє ім'я"
+author = "Sosiska"
 version = "1.0.0"
 forumthread = ""
 api_version = 10 -- Цифра 10 обов'язкова, вона каже грі, що це мод саме для DST
