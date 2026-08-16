@@ -1,0 +1,9 @@
+name = "Super Beefalo 10k"
+description = "Робить Біфало майже безсмертними, даючи їм 10000 ХП."
+author = "Твоє ім'я"
+version = "1.0.0"
+forumthread = ""
+api_version = 10 -- Цифра 10 обов'язкова, вона каже грі, що це мод саме для DST
+dst_compatible = true
+dont_starve_compatible = false
+all_clients_require_mod = true -- Означає, що мод впливає на механіки, тому потрібен усім гравцям на сервері
