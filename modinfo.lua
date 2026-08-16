@@ -1,4 +1,4 @@
-name = "Super Beefalo 10k"
+name = "Super Beefalo 100k"
 description = "Робить Біфало майже безсмертними, даючи їм 100000 ХП."
 author = "Sosiska"
 version = "1.0.0"
